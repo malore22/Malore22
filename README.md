@@ -1,6 +1,8 @@
 ## Eai, bem vindos ao meu projeto!👾![17d54085c8cb6b3f2f0da5bd6ce6a451](https://github.com/malore22/Malore22/assets/172305377/9400cbd1-76bb-4895-988a-ae28ef89be94)
 
+Meu nome é Lorena.
 
+Estou estudando na Alura.
 <!--
 **malore22/Malore22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
